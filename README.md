@@ -32,11 +32,11 @@ A seguir, os resultados obtidos:
 
 | r  | Tamanho do vetor (y) | Nº de triplas   | Tempo total (s)  | Tempo médio por tripla (ms)  |
 |----|----------------------|-----------------|------------------|------------------------------|
-| 3  | 200000               | 1000            | **XX.XXXX**      | **XX.XXXX**                  |
-| 5  | 200000               | 1000            | **XX.XXXX**      | **XX.XXXX**                  |
-| 7  | 200000               | 1000            | **XX.XXXX**      | **XX.XXXX**                  |
-| 9  | 200000               | 1000            | **XX.XXXX**      | **XX.XXXX**                  |
-| 11 | 200000               | 1000            | **XX.XXXX**      | **XX.XXXX**                  |
+| 3  | 100000               | 200000          | **XX.XXXX**      | **XX.XXXX**                  |
+| 5  | 100000               | 200000          | **XX.XXXX**      | **XX.XXXX**                  |
+| 7  | 100000               | 200000          | **XX.XXXX**      | **XX.XXXX**                  |
+| 9  | 100000               | 200000          | **XX.XXXX**      | **XX.XXXX**                  |
+| 11 | 100000               | 200000          | **XX.XXXX**      | **XX.XXXX**                  |
 
 ### Interpretação
 

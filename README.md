@@ -23,20 +23,20 @@ Além disso, foi implementada uma versão que aceita o parâmetro `r`, que defin
 
 ## Resultados
 
-Ao final da execução do script `test.py`, será exibido um relátorio contendo informações sobre os testes realizados do algoritmo Select-BFPRT. Para cada valor de `r ∈ {3, 5, 7, 9, 11}`, utilizando vetores de tamanho fixo com 200.000 elementos, e 1000 triplas geradas aleatoriamente para cada valor de `r`, representando o tamanho dos grupos utilizados na etapa de mediana.
+Ao final da execução do script `test.py`, será exibido um relátorio contendo informações sobre os testes realizados do algoritmo Select-BFPRT. Para cada valor de `r ∈ {3, 5, 7, 9, 11}`, utilizando vetores de tamanho fixo com 100.000 elementos, e 200.000 triplas geradas aleatoriamente para cada valor de `r`, representando o tamanho dos grupos utilizados na etapa de mediana.
 Onde:
 
 ### Relatório de Desempenho
 
 A seguir, os resultados obtidos:
 
-| r  | Tamanho do vetor (y) | Nº de triplas   | Tempo total (s)  | Tempo médio por tripla (ms)  |
-|----|----------------------|-----------------|------------------|------------------------------|
-| 3  | 100000               | 200000          | **XX.XXXX**      | **XX.XXXX**                  |
-| 5  | 100000               | 200000          | **XX.XXXX**      | **XX.XXXX**                  |
-| 7  | 100000               | 200000          | **XX.XXXX**      | **XX.XXXX**                  |
-| 9  | 100000               | 200000          | **XX.XXXX**      | **XX.XXXX**                  |
-| 11 | 100000               | 200000          | **XX.XXXX**      | **XX.XXXX**                  |
+| r  | Tamanho do vetor (y) | Nº de triplas   | Tempo médio por tripla (ms)  |
+|----|----------------------|-----------------|------------------------------|
+| 3  | 100000               | 200000          | **XX.XXXX**                  |
+| 5  | 100000               | 200000          | **XX.XXXX**                  |
+| 7  | 100000               | 200000          | **XX.XXXX**                  |
+| 9  | 100000               | 200000          | **XX.XXXX**                  |
+| 11 | 100000               | 200000          | **XX.XXXX**                  |
 
 ### Interpretação
 
